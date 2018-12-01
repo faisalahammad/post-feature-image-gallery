@@ -1,1 +1,1 @@
-# post-feature-image-gallery
+# Post Feature Image Gallery
