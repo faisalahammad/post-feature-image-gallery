@@ -1,0 +1,19 @@
+.pfig {
+	text-align: center;
+}
+.pfig:after {
+	content: '';
+	clear: both;
+	overflow: hidden;
+}
+.pfig .pfig-item {
+	width: 33.3333%;
+	height: auto;
+	float: left;
+	padding: 5px;
+	box-sizing: border-box;
+}
+.pfig .pfig-item img {
+	width: 100%;
+	height: auto;
+}
