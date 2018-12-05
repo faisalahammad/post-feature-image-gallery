@@ -17,3 +17,9 @@
 	width: 100%;
 	height: auto;
 }
+
+@media all and (max-width: 767px) {
+	.pfig .pfig-item {
+		width: 50% !important;
+	}
+}
